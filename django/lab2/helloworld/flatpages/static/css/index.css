@@ -1,6 +1,6 @@
 body {
-    background: #1abc9c;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: #ff4560;
+    font-family: serif;
     color: #333;
 }
 table {
@@ -11,8 +11,8 @@ p, h4 {
     margin-bottom: 0;
 }
 ul, ol {
-    margin: 0
+    margin: 0;
 }
 table tr td {
-    padding: 5px
+    padding: 5px;
 }
